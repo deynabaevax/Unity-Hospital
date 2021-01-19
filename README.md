@@ -1,4 +1,4 @@
-# PROCP
+
 
 With the global outbreak of COVID-19, the global medical system faces a rigorous challenge. How to conveniently and efficiently manage patients is an urgent problem for most hospitals.
  
