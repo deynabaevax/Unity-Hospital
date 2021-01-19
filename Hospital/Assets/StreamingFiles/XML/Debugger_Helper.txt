@@ -1,0 +1,11 @@
+NrofBedsText=startbeds
+TOtalDoctorsText
+HealthyText
+SickText
+QuarantinedPatsText
+DeadText
+NrNursesText
+Resulttext
+MinDoctorsText
+MinNursesText
+MinBedsText
